@@ -1,0 +1,36 @@
+h1{
+    text-align: center;
+}
+#tab{
+    width: 900px;
+    height: 550px;
+    border:  1px solid black;
+    margin: 30px auto;
+}
+table,th,td{
+    border-collapse: collapse;
+    border: 1px solid black;
+    
+}
+table{
+    height: 200px;
+    width: 780px;
+    margin-left: 10px;
+    
+}
+#alileft{
+    text-align: left;
+}
+.colorGray{
+    background-color: rgb(196, 196, 196);
+}
+img{
+    display: block;
+    margin: 5px auto;
+    max-width: 400px;
+    max-height:200px;
+}
+.mouse:hover{
+    background-color: chartreuse;
+}
+
